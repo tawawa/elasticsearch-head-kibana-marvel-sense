@@ -1,4 +1,4 @@
-## Elasticsearch-2.3.5, Kibana-4.5.3, Kibana, Marvel and Sense in one container
+## Elasticsearch-2.3.5, Kibana-4.5.3, Head, Marvel and Sense in one container
 
 Simple and lightweight docker image for previewing Elasticsearch, Head, Kibana, Marvel and Sense.
 
